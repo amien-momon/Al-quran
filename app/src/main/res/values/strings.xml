@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Al-quran</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Cari surat</string>
+    <string name="nama_1">Nama</string>
+    <string name="ayat">Ayat</string>
+    <string name="asma">Asma</string>
+    <string name="_1">1</string>
+</resources>
